@@ -1,0 +1,24 @@
+{
+  "name": "quietconsole",
+  "version": "1.0.0",
+  "description": "A utility tool that removes console.* statements from a project",
+  "main": "index.js",
+  "bin": {
+    "quietconsole": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "remove",
+    "tool",
+    "utility"
+  ],
+  "author": "Ishaan Bedi",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
