@@ -4,7 +4,7 @@
   "description": "A utility tool that removes console.* statements from a project to prevent publishing on production and exposing sensitive information.",
   "main": "index.ts",
   "bin": {
-    "shut-console": "index.ts"
+    "shut-console": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
