@@ -4,7 +4,7 @@ A utility tool that removes console.* statements from a project to prevent publi
 ***
 ## Usage
 ```
-quiteconsole [options]
+quietconsole [options]
 ```
 ### Options
 ```
@@ -18,18 +18,18 @@ quiteconsole [options]
 To view all console commands in all files of the project:
 
 ```
-quiteconsole -v
+quietconsole -v
 ```
 ### To remove all instances of the console commands from all files of the project:
 
 ```
-quiteconsole -r
+quietconsole -r
 ```
 
 To view all console commands in all files of the project as an object:
 
 ```
-quiteconsole -object
+quietconsole -object
 ```
 
 ## License
