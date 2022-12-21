@@ -1,7 +1,7 @@
 {
   "name": "@ishaanbedi/quietconsole",
   "version": "1.0.2",
-  "description": "A utility tool that removes console.* statements from a project",
+  "description": "A utility tool that removes console.* statements from a project to prevent publishing on production and exposing sensitive information.",
   "main": "index.ts",
   "bin": {
     "quietconsole": "index.ts"

@@ -1,6 +1,6 @@
 # quietconsole
 ***
-A utility tool that removes console.* statements from a project to prevent publishing on production and exposing sensitive information.
+A utility tool that removes console.* statements from a project can be useful to prevent publishing sensitive information on production. 
 ***
 ## Usage
 ```
