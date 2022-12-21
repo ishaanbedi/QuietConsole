@@ -1,19 +1,19 @@
 {
-  "name": "@ishaanbedi/quietconsole",
-  "version": "1.0.2",
+  "name": "shut-console",
+  "version": "1.0.4",
   "description": "A utility tool that removes console.* statements from a project to prevent publishing on production and exposing sensitive information.",
   "main": "index.ts",
   "bin": {
-    "quietconsole": "index.ts"
+    "shut-console": "index.ts"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ishaanbedi/QuietConsole.git"
+    "url": "https://github.com/ishaanbedi/shut-console.git"
   },
-  "homepage": "https://github.com/ishaanbedi/QuietConsole#readme",
+  "homepage": "https://github.com/ishaanbedi/shut-console#readme",
   "keywords": [
     "console",
     "remove",

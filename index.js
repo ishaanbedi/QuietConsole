@@ -56,13 +56,13 @@ if (args.length === 0) {
   console.log("\nPlease specify a command.");
   console.log("Use --help to see all available commands.\n");
   console.log(
-    `If you think something is broken, please open an issue on GitHub:\n\u001b[4mhttps://www.github.com/ishaanbedi/quietconsole/issues\u001b[0m\n`
+    `If you think something is broken, please open an issue on GitHub:\n\u001b[4mhttps://www.github.com/ishaanbedi/shut-console/issues\u001b[0m\n`
   );
   process.exit(1);
 }
 if (args.includes("-h") || args.includes("--help")) {
   console.log(`
-  \u001b[1mUsage: quietconsole [options]\u001b[0m
+  \u001b[1mUsage: shut-console [options]\u001b[0m
 
   \u001b[1mOptions:\u001b[0m
     
