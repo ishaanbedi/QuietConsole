@@ -1,6 +1,6 @@
 {
   "name": "shut-console",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A utility tool that removes console.* statements from a project to prevent publishing on production and exposing sensitive information.",
   "main": "index.ts",
   "bin": {
